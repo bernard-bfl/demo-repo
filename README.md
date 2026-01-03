@@ -1,10 +1,13 @@
-#Demo 
+# Demo 
 
 Some description!!
 
-#bandsforlife 
+## Subheader 
 
 Trying my hands on Git and Github 
 
+## Local development 
+
+1. Open index.html in your browser.
 
 
